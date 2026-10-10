@@ -1,0 +1,143 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\ngapZ\\LapTrinhWeb\\TrenLop\\Tuan8\\LtdLesson08DBF\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\ngapZ\\LapTrinhWeb\\TrenLop\\Tuan8\\LtdLesson08DBF\\Controllers\\BooksController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Controllers\\BooksController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\ngapZ\\LapTrinhWeb\\TrenLop\\Tuan8\\LtdLesson08DBF\\Controllers\\AccountsController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Controllers\\AccountsController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{951480B8-19D4-E62C-E978-DC3A37E3E2D2}|LtdLesson08DBF.csproj|e:\\ngapz\\laptrinhweb\\trenlop\\tuan8\\ltdlesson08dbf\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{951480B8-19D4-E62C-E978-DC3A37E3E2D2}|LtdLesson08DBF.csproj|solutionrelative:controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{951480B8-19D4-E62C-E978-DC3A37E3E2D2}|LtdLesson08DBF.csproj|e:\\ngapz\\laptrinhweb\\trenlop\\tuan8\\ltdlesson08dbf\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{951480B8-19D4-E62C-E978-DC3A37E3E2D2}|LtdLesson08DBF.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{951480B8-19D4-E62C-E978-DC3A37E3E2D2}|LtdLesson08DBF.csproj|e:\\ngapz\\laptrinhweb\\trenlop\\tuan8\\ltdlesson08dbf\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{951480B8-19D4-E62C-E978-DC3A37E3E2D2}|LtdLesson08DBF.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{951480B8-19D4-E62C-E978-DC3A37E3E2D2}|LtdLesson08DBF.csproj|e:\\ngapz\\laptrinhweb\\trenlop\\tuan8\\ltdlesson08dbf\\models\\bookstoredbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{951480B8-19D4-E62C-E978-DC3A37E3E2D2}|LtdLesson08DBF.csproj|solutionrelative:models\\bookstoredbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{951480B8-19D4-E62C-E978-DC3A37E3E2D2}|LtdLesson08DBF.csproj|e:\\ngapz\\laptrinhweb\\trenlop\\tuan8\\ltdlesson08dbf\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{951480B8-19D4-E62C-E978-DC3A37E3E2D2}|LtdLesson08DBF.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BooksController.cs",
+              "DocumentMoniker": "E:\\ngapZ\\LapTrinhWeb\\TrenLop\\Tuan8\\LtdLesson08DBF\\Controllers\\BooksController.cs",
+              "RelativeDocumentMoniker": "Controllers\\BooksController.cs",
+              "ToolTip": "E:\\ngapZ\\LapTrinhWeb\\TrenLop\\Tuan8\\LtdLesson08DBF\\Controllers\\BooksController.cs",
+              "RelativeToolTip": "Controllers\\BooksController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-10T14:02:49.725Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AccountsController.cs",
+              "DocumentMoniker": "E:\\ngapZ\\LapTrinhWeb\\TrenLop\\Tuan8\\LtdLesson08DBF\\Controllers\\AccountsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AccountsController.cs",
+              "ToolTip": "E:\\ngapZ\\LapTrinhWeb\\TrenLop\\Tuan8\\LtdLesson08DBF\\Controllers\\AccountsController.cs",
+              "RelativeToolTip": "Controllers\\AccountsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-10T14:01:09.595Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CategoriesController.cs",
+              "DocumentMoniker": "E:\\ngapZ\\LapTrinhWeb\\TrenLop\\Tuan8\\LtdLesson08DBF\\Controllers\\CategoriesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CategoriesController.cs",
+              "ToolTip": "E:\\ngapZ\\LapTrinhWeb\\TrenLop\\Tuan8\\LtdLesson08DBF\\Controllers\\CategoriesController.cs",
+              "RelativeToolTip": "Controllers\\CategoriesController.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAYwA8AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-10T13:50:33.382Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\ngapZ\\LapTrinhWeb\\TrenLop\\Tuan8\\LtdLesson08DBF\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "E:\\ngapZ\\LapTrinhWeb\\TrenLop\\Tuan8\\LtdLesson08DBF\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-10T13:28:39.85Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\ngapZ\\LapTrinhWeb\\TrenLop\\Tuan8\\LtdLesson08DBF\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "E:\\ngapZ\\LapTrinhWeb\\TrenLop\\Tuan8\\LtdLesson08DBF\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAACMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-10-10T13:26:14.509Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BookStoreDbContext.cs",
+              "DocumentMoniker": "E:\\ngapZ\\LapTrinhWeb\\TrenLop\\Tuan8\\LtdLesson08DBF\\Models\\BookStoreDbContext.cs",
+              "RelativeDocumentMoniker": "Models\\BookStoreDbContext.cs",
+              "ToolTip": "E:\\ngapZ\\LapTrinhWeb\\TrenLop\\Tuan8\\LtdLesson08DBF\\Models\\BookStoreDbContext.cs",
+              "RelativeToolTip": "Models\\BookStoreDbContext.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAA7wB8AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-05T01:41:47.724Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "E:\\ngapZ\\LapTrinhWeb\\TrenLop\\Tuan8\\LtdLesson08DBF\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "E:\\ngapZ\\LapTrinhWeb\\TrenLop\\Tuan8\\LtdLesson08DBF\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-05T01:17:01.269Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
